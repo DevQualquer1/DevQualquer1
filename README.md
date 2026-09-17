@@ -7,11 +7,14 @@ I enjoy understanding how things work under the hood and I'm
 always learning new technologies and building projects to put
 my knowledge into practice.
 
---
+<hr style="height: 1px; border: 0;">
 
 ### 🛠️ Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<div> 
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="40"/> 
+  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="40"/> 
+</div>
 
 ---
 
