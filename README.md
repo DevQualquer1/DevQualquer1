@@ -7,7 +7,7 @@ I enjoy understanding how things work under the hood and I'm
 always learning new technologies and building projects to put
 my knowledge into practice.
 
-<hr style="height: 1px; border: 0;">
+<hr style="height: 0.5px; border: 0;">
 
 ### 🛠️ Languages
 
