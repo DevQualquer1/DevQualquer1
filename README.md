@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Eliel! 👋
 
-<!--
-**DevQualquer1/DevQualquer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 I'm a Brazilian programming student currently focused on
+software development and competitive programming.
 
-Here are some ideas to get you started:
+I enjoy understanding how things work under the hood and I'm
+always learning new technologies and building projects to put
+my knowledge into practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="40"/> 
+  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="40"/> 
+</div>
+
+<hr>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1010715349282463754)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:elielbritsa@gmail.com)
