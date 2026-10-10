@@ -11,6 +11,7 @@ my knowledge into practice.
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="40"/> 
   <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40"/>
 </div>
 
 <hr>
