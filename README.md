@@ -9,6 +9,7 @@ Gosto de entender como as coisas funcionam por baixo dos panos. Estou sempre apr
 <div>
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" width="40" alt="C"/>
   <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="40" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/luau" width="40" alt="Luau"/>
   <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="40" alt="JavaScript"/>
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" alt="HTML5"/>
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" alt="CSS3"/>
